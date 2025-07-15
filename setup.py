@@ -42,14 +42,15 @@ setup(
         'Topic :: Internet :: WWW/HTTP :: Dynamic Content',
         'Topic :: Software Development',
         'Topic :: Software Development :: Libraries :: Application Frameworks',
-        'Programming Language :: Python :: 3.9',
         'Programming Language :: Python :: 3.10',
         'Programming Language :: Python :: 3.11',
         'Programming Language :: Python :: 3.12',
         'Programming Language :: Python :: 3.13',
         'Framework :: Django',
         'Framework :: Django :: 4.2',
+        'Framework :: Django :: 5.2',
         'Framework :: Wagtail :: 5',
         'Framework :: Wagtail :: 6',
+        'Framework :: Wagtail :: 7',
     ]
 )
